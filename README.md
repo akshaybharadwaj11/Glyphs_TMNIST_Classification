@@ -18,6 +18,6 @@ The structure of the csv file is:
 
 ### Install the necessary libraries
 
-! pip install tensorflow
+`! pip install tensorflow`
 
 
